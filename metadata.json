@@ -1,0 +1,6 @@
+{
+  "name": "FalkorAgent: Graph-Context Multi-Agent Ecosystem",
+  "description": "Multi-agent ecosystem powered by FalkorDB as its primary context layer: multi-hop graph reasoning, cross-session episodic memory, shared agent state, and transparent path provenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
